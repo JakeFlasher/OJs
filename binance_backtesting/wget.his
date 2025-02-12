@@ -1,0 +1,15 @@
+    7  wget https://github.com/neovim/neovim/releases/download/nightly/nvim-linux64.tar.gz
+   35  wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraCode.zip
+  218  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  304  wget http://launchpadlibrarian.net/762033267/libqt6qmlmeta6_6.8.1+dfsg-0ubuntu1_amd64.deb
+  309  wget https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/qt6-declarative/6.8.1+dfsg-0ubuntu1/qt6-declarative_6.8.1+dfsg.orig.tar.xz
+  322  wget https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-linux-x64-4.8.1.run
+  408  wget https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.6.0/lovely-x86_64-pc-windows-msvc.zip
+  744  wget https://zenodo.org/records/13150677/files/micro57.tar.gz\?download\=1
+  880  wget https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.6.4/pandoc-crossref-Linux-2.9.2.1.tar.xz
+  983  wget https://crix-api-cdn.upbit.com/v1/crix/candles/days\?code\=CRIX.UPBIT.USDT-BTC\&count\=1495\&ciqrandom\=1738684109266
+ 1011  wget https://crix-api-cdn.upbit.com/v1/crix/candles/days\?code\=CRIX.UPBIT.USDT-BTC\&count\=500 p1.json
+ 1014  wget https://crix-api-cdn.upbit.com/v1/crix/candles/days\?code\=CRIX.UPBIT.USDT-BTC\&count\=500 -O p1.json
+ 1016  wget https://crix-api-cdn.upbit.com/v1/crix/candles/days\?code\=CRIX.UPBIT.USDT-BTC\&count\=500\&to\=2024-01-01T01:00:00.000Z\&ciqrandom\=1738684169422 -O p2.json
+ 1017  wget https://crix-api-cdn.upbit.com/v1/crix/candles/days\?code\=CRIX.UPBIT.USDT-BTC\&count\=500\&to\=2022-11-27T16:00:00.000Z\&ciqrandom\=1738684169422 -O p3.json
+ 1020  wget https://crix-api-cdn.upbit.com/v1/crix/candles/days\?code\=CRIX.UPBIT.USDT-BTC\&count\=296\&to\=2021-10-23T16:00:00.000Z\&ciqrandom\=1738684169422 -O p4.json
